@@ -1,6 +1,6 @@
 #INFO 201 M18 Exercise 5 Server
 
-#Require the following: shiny, HSUAR, dyplr, and ggplot2
+#Require the following: shiny, HSAUR, dyplr, and ggplot2
 library(shiny)
 library(HSAUR)
 library(dplyr)
